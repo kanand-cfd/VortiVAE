@@ -65,9 +65,7 @@ All installable via `pip install -r requirements.txt`.
 
 ## Preview
 
-```markdown
 ![Preview](preview.png)
-```
 
 ## Future Ideas
 
